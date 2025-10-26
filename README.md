@@ -7,7 +7,7 @@ This repository documents my hands-on journey through the learning of Bash, wher
 
 ## 🎮 Bash Battle Arena – Game Mode Scripting
 
-The Bash Battle Arena is a simulation-based CLI game created by CoderCo to train DevOps thinking. I completed **all 15 levels**, each introducing a new challenge in scripting automation:
+The Bash Battle Arena is a simulation-based CLI game created to train DevOps thinking. I completed **all 15 levels**, each introducing a new challenge in scripting automation:
 
 | Level | Script                        | Concept                     |
 |-------|-------------------------------|-----------------------------|
