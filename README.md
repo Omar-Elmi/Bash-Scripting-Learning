@@ -3,16 +3,6 @@
 
 This repository documents my hands-on journey through the learning of Bash, where I built a deep and practical foundation in Bash scripting — the backbone of modern DevOps and automation workflows.
 
-
----
-
-## 📁 Repository Structure
-DevOps-Bash/
-├── lessons/               # One script per lesson (35 total)
-├── battle_arena/          # Bash Battle Arena levels 1–15
-├── extras/                # Optional bonus or creative scripts
-└── README.md              # You’re reading it!
-
 ---
 
 ## 🎮 Bash Battle Arena – Game Mode Scripting
