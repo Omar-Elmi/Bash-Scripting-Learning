@@ -1,4 +1,5 @@
-#Learning – Bash Scripting 
+
+## Learning – Bash Scripting 
 
 This repository documents my hands-on journey through the learning of Bash, where I built a deep and practical foundation in Bash scripting — the backbone of modern DevOps and automation workflows.
 
