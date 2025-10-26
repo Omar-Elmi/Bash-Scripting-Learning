@@ -1,11 +1,7 @@
-# 🐚 DevOps Learning – Bash Scripting (CoderCo Academy)
+#Learning – Bash Scripting 
 
-This repository documents my hands-on journey through the **CoderCo DevOps Academy – Bash Module**, where I built a deep and practical foundation in Bash scripting — the backbone of modern DevOps and automation workflows.
+This repository documents my hands-on journey through the learning of Bash, where I built a deep and practical foundation in Bash scripting — the backbone of modern DevOps and automation workflows.
 
-I’ve completed:
-- ✅ 35 structured lessons with one script per topic  
-- ✅ 15 Bash Battle Arena challenges including 3 Boss Battles  
-- ✅ Extra utility scripts to test file systems, monitor changes, and automate CLI tasks
 
 ---
 
@@ -15,41 +11,6 @@ DevOps-Bash/
 ├── battle_arena/          # Bash Battle Arena levels 1–15
 ├── extras/                # Optional bonus or creative scripts
 └── README.md              # You’re reading it!
----
-
-## 📚 Module Overview
-
-| Topic                        | Lessons |
-|-----------------------------|---------|
-| Variables, Parameters       | ✅       |
-| Arithmetic, Expansion       | ✅       |
-| Conditionals (`if`, `elif`) | ✅       |
-| Loops (`for`, `while`)      | ✅       |
-| Functions & Inputs          | ✅       |
-| Error Handling (`set -e`)   | ✅       |
-| Files & Directories         | ✅       |
-| Environment Variables       | ✅       |
-| File Checksums              | ✅       |
-
-Each lesson includes a custom-built script stored in the `lessons/` folder. No copying — all written, debugged, and tested from scratch.
-
----
-
-## 🧪 Lesson-by-Lesson Practice Scripts
-
-| Lesson # | File                             | Focus                                  |
-|----------|----------------------------------|----------------------------------------|
-| 01       | `01_shebang_comments.sh`         | Shebang line, comments                 |
-| 05       | `05_variables.sh`                | Variables, parameters                  |
-| 11       | `11_if_logic.sh`                 | Conditional logic                      |
-| 14       | `14_while_loop.sh`               | Loops                                  |
-| 17       | `17_functions.sh`                | Functions and modular scripting        |
-| 25–28    | `25_set_eux.sh`                  | Script safety & debugging flags        |
-| 33       | `33_read_file.sh`                | Reading files                          |
-| 35       | `35_checksum.sh`                 | File integrity & hash functions        |
-| etc.     | …                                | All lessons covered                    |
-
-> 🔎 Each script was a sandbox: I explored, broke, and rebuilt until I understood the core concept. Nothing was skipped.
 
 ---
 
@@ -110,23 +71,4 @@ The Bash Battle Arena is a simulation-based CLI game created by CoderCo to train
 ✅ Demonstrates structure, readability, and CLI thinking  
 ✅ Ready to plug into Ansible, CI/CD, cron jobs, or IaC logic
 
----
 
-## 🌐 Connect
-
-Follow my DevOps journey or reach out for collaborations:
-
-- 🔗 [LinkedIn – Yassin Suleiman](https://www.linkedin.com/in/yassinsuleiman)  
-- 🧠 Currently learning: **GitHub Actions**, **Terraform**, **Azure DevOps**, and **Linux Internals**
-
----
-
-## 🏁 Final Reflection
-
-> *“Bash is where DevOps begins. It teaches you not just how to automate — but how to think clearly, catch errors early, and solve problems with simplicity.”*  
-> — **Yassin Suleiman**
-
----
-
-### 🏷 Tags
-`#DevOps` `#Bash` `#CoderCo` `#Scripting` `#Automation` `#Portfolio` `#Linux`
